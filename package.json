@@ -1,0 +1,14 @@
+{
+  "name": "github-test-demo",
+  "version": "1.0.0",
+  "description": "小乔的前端练习仓库",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Development server starting...'",
+    "build": "echo 'Building project...'",
+    "test": "echo 'Running tests...'"
+  },
+  "keywords": ["frontend", "practice", "github"],
+  "author": "小乔",
+  "license": "MIT"
+}
